@@ -1,0 +1,9 @@
+﻿  Edulink1v2.cpp
+C:\Users\Isaac\Documents\EdulinkOne++\Edulink1v2\Edulink1v2\Edulink1v2.cpp(64,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\Isaac\Documents\EdulinkOne++\Edulink1v2\Edulink1v2\Edulink1v2.cpp(64,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+  Generating code
+  0 of 238 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Edulink1v2.vcxproj -> C:\Users\Isaac\Documents\EdulinkOne++\Edulink1v2\x64\Release\Edulink1v2.exe

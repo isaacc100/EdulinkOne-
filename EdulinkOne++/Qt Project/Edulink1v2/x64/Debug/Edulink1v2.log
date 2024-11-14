@@ -1,0 +1,4 @@
+﻿  Edulink1v2.cpp
+C:\Users\Isaac\Documents\Edulink1v2\Edulink1v2\Edulink1v2.cpp(42,9): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'int'
+C:\Users\Isaac\Documents\Edulink1v2\Edulink1v2\Edulink1v2.cpp(42,9): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'int'
+  Edulink1v2.vcxproj -> C:\Users\Isaac\Documents\Edulink1v2\Edulink1v2\x64\Debug\Edulink1v2.exe
